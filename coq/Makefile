@@ -3,7 +3,7 @@ ch7.1-n--tuples,-lists-with-an-invariant-on-the-length.v \
 ch7.2-n--tuples,-a-sub-type-of-sequences.v \
 ch7.3-Finite-types-and-their-theory.v \
 ch7.4-The-ordinal-subtype.v ch7.5-Finite-functions.v ch7.6-Finite-sets.v \
-ch7.7-Permutations.v ch7.8-Matrix.v ch7.8-Matrix-part-2.v
+ch7.7-Permutations.v ch7.8-Matrix-part-1.v ch7.8-Matrix-part-2.v
 
 all: $(files:%.v=%.html) index.html
 
